@@ -1,0 +1,5 @@
+git branch -vv
+
+bug-fix-revert eb509ca [origin/bug-fix-revert] Add Task 8 PR verification
+bug-fix-typo   53c8d51 [origin/bug-fix-typo] Fix typo in README
+main           a9a1676 [origin/main] Add task verification files
