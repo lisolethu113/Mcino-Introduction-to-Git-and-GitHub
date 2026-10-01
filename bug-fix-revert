@@ -1,0 +1,27 @@
+curl.exe -X GET "https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/11873" -H "Accept: application/vnd.github+json"
+
+{
+  "number": 11873,
+  "state": "closed",
+  "title": "Bug fix revert",
+  "head": {
+    "label": "lisolethu113:bug-fix-revert",
+    "ref": "bug-fix-revert",
+    "repo": {
+      "full_name": "lisolethu113/Mcino-Introduction-to-Git-and-GitHub",
+      "fork": true
+    }
+  },
+  "base": {
+    "label": "ibm-developer-skills-network:main",
+    "ref": "main",
+    "repo": {
+      "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+      "fork": false
+    }
+  },
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": false,
+  "changed_files": 2
+}
